@@ -13,7 +13,7 @@
 |操作|キー|備考|  
 |:--:|:--:|:--:|  
 |単語単位の移動|alt-B/alt-F|**B**ack/**F**orward|  
-|行の先頭・末尾|control-A/control-E|?/**E**nd|  
+|行の先頭・末尾|control-A/control-E|?/**E**nd|  
 
 * 選択  
 
