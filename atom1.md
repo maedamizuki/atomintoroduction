@@ -26,5 +26,10 @@ apm install "パッケージ名"
 
 ###  インストールを行ったパッケージ一覧  
 -- 今回GitHub上でmarkdown法で様々なファイルをまとめる際にAtomで使用したパッケージを載せておく  
-[1]japanese-menu
-[2]Markdown Preview
+[1]japanese-menu  
+[2]Markdown Preview  
+[3]term2  
+[4]japanese-wrap  
+[5]file-icons  
+[6]open-on-github  
+[7]autcomplete-plus  
